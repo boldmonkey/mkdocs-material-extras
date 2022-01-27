@@ -1,0 +1,6 @@
+site_name: MkDocs Material Extras
+repo_name: squidfunk/mkdocs-material
+repo_url: https://github.com/squidfunk/mkdocs-material
+theme:
+  name: material
+  font: false  # Disable loading from Google Fonts
