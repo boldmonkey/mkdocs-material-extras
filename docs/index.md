@@ -1,7 +1,6 @@
 # MkDocs Material Extras
 
-A docker image containing the awesome MkDocs Material and a curated set of plugins and extras with
-some nice examples.
+A docker image containing the awesome [MkDocs Material](https://squidfunk.github.io/mkdocs-material/) and a curated set of plugins and extras with some nice examples.
 
 ## Commands
 
