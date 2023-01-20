@@ -25,7 +25,7 @@ mkdocs-material-extensions==1.0.3
 mkdocs-mermaid2-plugin==0.5.2
 packaging==21.3
 Pygments==2.11.2
-pymdown-extensions==9.1
+pymdown-extensions==9.9.2
 pyparsing==3.0.7
 python-dateutil==2.8.2
 pytz==2021.3
